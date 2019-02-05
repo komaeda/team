@@ -1,0 +1,24 @@
+{
+  "name": "wg-cli",
+  "kind": "working_group",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Pascal Hertleif",
+      "github": "killercup",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Command-line interfaces (CLI) working group",
+    "description": "Focusing on the end-to-end experience of writing CLI apps, both large and small, in Rust.",
+    "page": "cli",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-cli",
+      "url": "https://discord.gg/BXCBYX6"
+    },
+    "weight": 0
+  }
+}
